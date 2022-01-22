@@ -9,6 +9,4 @@ Step3: Sign contract in metamask(use etc)
 
 Step4: check your crypto currency in ETCscan
 
-![1642812158587](https://user-images.githubusercontent.com/67402409/150617480-bb95959d-f71c-4991-a4fb-76245809a11f.jpg)
-
-![1642812191422](https://user-images.githubusercontent.com/67402409/150617482-ab7b602c-f979-40e4-b2ec-2169b741bd5e.jpg)
+![1642812158587](https://user-images.githubusercontent.com/67402409/150622478-48113e66-1653-4d66-a958-b791bdf895fe.jpg)
